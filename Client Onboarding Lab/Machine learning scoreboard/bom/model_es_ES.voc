@@ -1,0 +1,38 @@
+
+# y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input#concept.label = Entrada del modelo mL
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.Input(java.lang.Integer,java.lang.Integer,java.lang.Integer,java.lang.Integer)#phrase.navigation = un nuevo {Entrada del modelo mL} en que {0, clientannualrevenue} {1, clientexistenceduratión} {2, clientindustry} {3, clientemployeenumber} 
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientannualrevenue#phrase.action = cambiar el clientannualrevenue {this,PARTITIVE_ARTICLE} a {clientannualrevenue}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientannualrevenue#phrase.addition_setter = añadir {clientannualrevenue} a el clientannualrevenue {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientannualrevenue#phrase.navigation = {clientannualrevenue} {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientannualrevenue#phrase.subtraction_setter = sustraer {clientannualrevenue} de el clientannualrevenue {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientemployeenumber#phrase.action = cambiar el clientemployeenumber {this,PARTITIVE_ARTICLE} a {clientemployeenumber}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientemployeenumber#phrase.addition_setter = añadir {clientemployeenumber} a el clientemployeenumber {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientemployeenumber#phrase.navigation = {clientemployeenumber} {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientemployeenumber#phrase.subtraction_setter = sustraer {clientemployeenumber} de el clientemployeenumber {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientexistenceduration#phrase.action = cambiar el clientexistenceduratión {this,PARTITIVE_ARTICLE} a {clientexistenceduratión}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientexistenceduration#phrase.addition_setter = añadir {clientexistenceduratión} a el clientexistenceduratión {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientexistenceduration#phrase.navigation = {clientexistenceduratión} {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientexistenceduration#phrase.subtraction_setter = sustraer {clientexistenceduratión} de el clientexistenceduratión {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.action = cambiar el clientindustry {this,PARTITIVE_ARTICLE} a {clientindustry}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.addition_setter = añadir {clientindustry} a el clientindustry {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.navigation = {clientindustry} {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.subtraction_setter = sustraer {clientindustry} de el clientindustry {this,PARTITIVE_ARTICLE}
+
+# y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output#concept.label = Salida del modelo mL
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.Output(java.lang.String,java.lang.Double,java.lang.Double,int)#phrase.navigation = un nuevo {Salida del modelo mL} en que {0, predicted clientdefaultedpayment} {1, confidence} {2, weight} {3, rank} 
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.action = cambiar el confidence {this,PARTITIVE_ARTICLE} a {confidence}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.addition_setter = añadir {confidence} a el confidence {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.navigation = {confidence} {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.subtraction_setter = sustraer {confidence} de el confidence {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.predictedClientdefaultedpayment#phrase.action = cambiar la predicted clientdefaultedpayment {this,PARTITIVE_ARTICLE} a {predicted clientdefaultedpayment}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.predictedClientdefaultedpayment#phrase.navigation = {predicted clientdefaultedpayment} {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.action = cambiar el rank {this,PARTITIVE_ARTICLE} a {rank}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.addition_setter = añadir {rank} a el rank {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.navigation = {rank} {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.rank#phrase.subtraction_setter = sustraer {rank} de el rank {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.action = cambiar el weight {this,PARTITIVE_ARTICLE} a {weight}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.addition_setter = añadir {weight} a el weight {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.navigation = {weight} {this,PARTITIVE_ARTICLE}
+y9dx18706.clientonboardinglab.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.subtraction_setter = sustraer {weight} de el weight {this,PARTITIVE_ARTICLE}
